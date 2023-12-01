@@ -1,6 +1,6 @@
 # MongoDB
-#To start the application
+#To start the application:
 npx nodemon 
 
-#install dependencies 
+#install dependencies:
 npm install
